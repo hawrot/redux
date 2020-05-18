@@ -22,5 +22,8 @@ console.log(store.getState());
 //Action
 
 //Dispatching Action
+store.dispatch({type: 'INC_COUNTER'});
+store.dispatch({type: 'ADD_COUNTER'});
+
 
 //Abuscription
