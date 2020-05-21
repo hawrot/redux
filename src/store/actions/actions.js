@@ -18,13 +18,13 @@ export const decrement = () => {
 export const add = (value) => {
     return {
         type: ADD,
-        val: value
+        value: value
     };
 };
 export const subtract = (value) => {
     return {
         type: SUBTRACT,
-        val: value
+        value: value
     };
 };
 export const store = (result) => {
