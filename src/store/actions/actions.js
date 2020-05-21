@@ -36,6 +36,6 @@ export const store = (result) => {
 export const deleteResult = (resElId) => {
     return {
         type: DELETE_RESULT,
-        resElId: resElId
+        resultElId: resElId
     };
 };
