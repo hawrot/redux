@@ -4,3 +4,7 @@ export const ADD = 'ADD';
 export const SUBTRACT = 'SUBTRACT';
 export const STORE = 'STORE';
 export const DELETE_RESULT = 'DELETE_RESULT';
+
+
+
+
